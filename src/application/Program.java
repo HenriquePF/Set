@@ -20,9 +20,9 @@ public class Program {
 
 		
 		
-		set.add("TV");
-		set.add("Tablet");
-		set.add("Notebook");
+		set.add("Smartphone");
+		set.add("Ebook");
+		set.add("Desktop");
 
 	//	set.remove("Tablet");
 	//	set.removeIf(x -> x.length() >= 3);
